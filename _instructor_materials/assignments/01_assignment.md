@@ -30,11 +30,20 @@ Your team is tasked to create a simple one page landing page for your team. The 
 
 ## How to Submit
 
-Submit all that is required under Assignment 1 on blackboard.
+Submit all that is required under Assignment 1 on blackboard. There should only be one submission per team.
 
 Example Submission
 
 ```
+Team Members:
+1. {replace-with-name}
+2. {replace-with-name}
+3. {replace-with-name}
+4. {replace-with-name}
+5. {replace-with-name}
+6. {replace-with-name}
+
+
 Team Name: {replace-with-team-name}
 --
 Project Manger: {replace-with-name}, {replace-with-name}
