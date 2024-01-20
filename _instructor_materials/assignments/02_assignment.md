@@ -11,10 +11,8 @@ This week is dedicated to establishing your team's GitHub repository and setting
 - **Create a GitHub Repository**: The repository should be named in the format `idm216-{teamName}-{projectName}`.
 - **Roles**: Assign one team member as the repository owner and all another as a collaborator.
 - Create readme.md file with the following information:
-  - **Team Members**: List all team members and their roles.
-  - **Project Managers**: List all project managers.
-  - **Useful Links**: Include links to the team web page, team repository, and final project landing page.
-  - **Planner Details**: Include a list of Kanban-style buckets and tasks with due dates.
+  - **Team Members**: Link to a document in your teams page. 
+  - **Useful Links**: Include links you woukd find useful to the team. For example web page, team repository, and final project landing page.
   - Link to your Microsoft Teams group.
 
 ## Microsoft Teams for Project Communication
