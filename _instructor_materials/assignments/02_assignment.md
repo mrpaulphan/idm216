@@ -8,7 +8,7 @@ This week is dedicated to establishing your team's GitHub repository and setting
 
 ### Accepted Criteria
 
-- **Create a GitHub Repository**: The repository should be named in the format `idm216-{teamName}-{projectName}`.
+- **Create a GitHub Repository**: The repository should be named in the format `idm216-{teamName}`.
 - **Roles**: Assign one team member as the repository owner and all another as a collaborator.
 - Create readme.md file with the following information:
   - **Team Members**: Link to a document in your teams page. 
